@@ -2,15 +2,13 @@
 An aspiring VLSI design engineer!!
 <!--
 **Sarunesh/Sarunesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on various projects under VLSI frontend and backend.
-- 🌱 I’m currently learning Verilog, System Verilog, UVM.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: <img src=>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on various projects under VLSI frontend and backend.
+- 🌱 I’m currently learning Verilog, System Verilog, UVM.
+- - 📫 How to reach me: <img src="https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-16.jpg" alt="LinkedIn">
