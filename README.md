@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, Myself SARUNESH S</h1>
 <h3 align="center">An aspiring VLSI design engineer from India!</h3>
 
-- 🔭 I’m currently working on **various projects under VLSI frontend & backend**
+- 🔭 I’m currently working on **various projects under VLSI frontend & backend.**
 
 - 🌱 I’m currently learning **Verilog, System Verilog, UVM.**
 
-- 📫 How to reach me **sarunesh.s12@gmail.com**
+- 📫 Reach me at **sarunesh.s12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
