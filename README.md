@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarunesh&label=Profile%20views&color=0e75b6&style=flat" alt="sarunesh" /> </p>
 
-- 👨‍🎓 I’m currently pursuing my bachelor's degree in **Electronics and Communication Engineering**
+- 👨‍🎓 I’m currently pursuing my bachelor's degree in **Electronics and Communication Engineering.**
 
-- 🔭 I’m currently working on **various projects under VLSI frontend & backend**
+- 🔭 I’m currently working on **various projects under VLSI frontend & backend.**
 
 - 🌱 I’m currently learning **Verilog, System Verilog, UVM, HTML, CSS.**
 
