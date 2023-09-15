@@ -15,8 +15,9 @@
 
 - 🤗 Studying alongside my bestest friend <a href="https://github.com/VivekaECE" target="blank">**@VivekaECE**</a>
 
-- 💻 Work-mates: <ul style="column-count:2">
-                    <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li><li><a href="https://github.com/Vijayn25" target="blank">**@Vijayn25**</a></li>
+- 💻 Work-mates: <ul style="column-count:2 column-rule-style:solid">
+                    <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li>
+                    <li><a href="https://github.com/Vijayn25" target="blank">**@Vijayn25**</a></li>
                     <li><a href="https://github.com/subanesh-swe" target="blank">**@subanesh-swe**</a></li>
                     <li><a href="https://github.com/sheshadriN" target="blank">**@sheshadriN**</a></li>
                   </ul>
