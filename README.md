@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LQkV68JGKeFLDw5Phq/giphy.gif" width="100" aspect-ratio="2/5" />
 </div>
-<p align="left">
+<p align="center">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarunesh-s-2b833b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarunesh-s-2b833b226/" height="30" width="40" /></a> -->
   <a href="https://www.linkedin.com/in/sarunesh-s-2b833b226/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" height="30" aspect-ratio="5/2" /></a>
 </p>
