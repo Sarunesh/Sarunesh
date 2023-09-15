@@ -15,7 +15,12 @@
 
 - 🤗 I’m currently working on **various projects under VLSI frontend & backend**
 
-- 💻 Work-mates: <ul><li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">@KARTHIK-RAJA-B</a></li></ul>
+- 💻 Work-mates: <ul>
+                    <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li>
+                    <li><a href="https://github.com/Vijayn25" target="blank">**@Vijayn25**</a></li>
+                    <li><a href="https://github.com/subanesh-swe" target="blank">**@subanesh-swe**</a></li>
+                    <li><a href="https://github.com/sheshadriN" target="blank">**@sheshadriN**</a></li>
+                  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
