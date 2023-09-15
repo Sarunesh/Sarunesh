@@ -19,6 +19,7 @@
 - 💻 Bros-in-Arms: <ul style="column-count:2 column-rule-style:solid">
                     <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li>
                     <li><a href="https://github.com/Vijayn25" target="blank">**@Vijayn25**</a></li>
+                    <li><a href="https://github.com/its-me-manoj" target="blank">**@its-me-manoj**</a></li>
                     <li><a href="https://github.com/subanesh-swe" target="blank">**@subanesh-swe**</a></li>
                     <li><a href="https://github.com/sheshadriN" target="blank">**@sheshadriN**</a></li>
                   </ul>
