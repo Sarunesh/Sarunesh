@@ -23,9 +23,9 @@
                     <li><a href="https://github.com/sheshadriN" target="blank">**@sheshadriN**</a></li>
                   </ul>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM2YzJjcmF2ZzZzc3pqYnk1NzJ1cW5rMDkxb2Rwazc4dXRnYTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" aspect-ratio="2/5" />
+  <img src="https://media.giphy.com/media/LQkV68JGKeFLDw5Phq/giphy.gif" width="100" aspect-ratio="2/5" />
 </div>
 <p align="left">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarunesh-s-2b833b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarunesh-s-2b833b226/" height="30" width="40" /></a> -->
