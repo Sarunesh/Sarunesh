@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarunesh&label=Profile%20views&color=0e75b6&style=flat" alt="sarunesh" /> </p>
 
+- 👨‍🎓 I’m currently pursuing my bachelor's degree in **Electronics and Communication Engineering**
+
 - 🔭 I’m currently working on **various projects under VLSI frontend & backend**
 
 - 🌱 I’m currently learning **Verilog, System Verilog, UVM, HTML, CSS.**
@@ -10,6 +12,10 @@
 - 💬 Ask me about **Verilog, System Verilog,**
 
 - 📫 Reach me at **sarunesh.s12@gmail.com**
+
+- 🤗 I’m currently working on **various projects under VLSI frontend & backend**
+
+- 💻 Work-mates: <ul><li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">@KARTHIK-RAJA-B</a></li></ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
