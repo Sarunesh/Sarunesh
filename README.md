@@ -27,6 +27,7 @@
 <p align="left">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarunesh-s-2b833b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarunesh-s-2b833b226/" height="30" width="40" /></a> -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarunesh-s-2b833b226/) 
+  <a href="https://www.linkedin.com/in/sarunesh-s-2b833b226/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" /></a>
 </p>
 
 <h3 align="left">Hardware Languages and Tools:</h3>
