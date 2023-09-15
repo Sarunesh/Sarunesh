@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, Myself SARUNESH S</h1>
 <h3 align="center">An aspiring VLSI design engineer from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarunesh&label=Profile%20views&color=0e75b6&style=flat" alt="sarunesh" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarunesh&label=Profile%20views&color=0e75b6&style=flat" alt="sarunesh" /> </p> -->
+[![](https://visitcount.itsvg.in/api?id=sarunesh&icon=6&color=11)](https://visitcount.itsvg.in)
 
 - 👨‍🎓 I’m currently pursuing my bachelor's degree in **Electronics and Communication Engineering.**
 
@@ -37,9 +38,6 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarunesh&show_icons=true&locale=en&layout=compact" alt="sarunesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarunesh&show_icons=true&locale=en" alt="sarunesh" /></p> -->
-![](https://github-readme-stats.vercel.app/api?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarunesh&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarunesh&theme=shades-of-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=sarunesh&icon=6&color=11)](https://visitcount.itsvg.in)
