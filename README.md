@@ -25,7 +25,7 @@
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <div align="center">
-  <img src="https://media.giphy.com/media/LQkV68JGKeFLDw5Phq/giphy.gif" width="100" aspect-ratio="2/5" />
+  <img src="https://media.giphy.com/media/LQkV68JGKeFLDw5Phq/giphy.gif" width="150" aspect-ratio="2/5" />
 </div>
 <div align="center" gap="30px">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarunesh-s-2b833b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarunesh-s-2b833b226/" height="30" width="40" /></a> -->
