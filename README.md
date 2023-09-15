@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **Verilog, System Verilog, UVM, HTML, CSS.**
 
-- 💬 Ask me about **Verilog, System Verilog,**
+- 💬 Ask me about **Verilog, System Verilog.**
 
 - 📫 Reach me at **sarunesh.s12@gmail.com**
 
 - 🤗 Studying alongside my bestest friend <a href="https://github.com/VivekaECE" target="blank">**@VivekaECE**</a>
 
 - 💻 Work-mates: <ul>
-                    <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank"><b>@KARTHIK-RAJA-B</b></a></li>
+                    <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li>
                     <li><a href="https://github.com/Vijayn25" target="blank">**@Vijayn25**</a></li>
                     <li><a href="https://github.com/subanesh-swe" target="blank">**@subanesh-swe**</a></li>
                     <li><a href="https://github.com/sheshadriN" target="blank">**@sheshadriN**</a></li>
