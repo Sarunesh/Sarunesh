@@ -24,6 +24,7 @@
                   </ul>
 
 <h3 align="left">Connect with me:</h3>
+<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
 <p align="left">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarunesh-s-2b833b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarunesh-s-2b833b226/" height="30" width="40" /></a> -->
   <a href="https://www.linkedin.com/in/sarunesh-s-2b833b226/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" height="30" aspect-ratio="5/2" /></a>
