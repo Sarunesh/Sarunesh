@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, Myself SARUNESH S</h1>
 <h3 align="center">An aspiring VLSI design engineer from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarunesh&label=Profile%20views&color=0e75b6&style=plastic" alt="sarunesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarunesh&label=Profile%20views&color=0e75b6&style=flat" alt="sarunesh" /> </p>
 
 - 👨‍🎓 I’m currently pursuing my bachelor's degree in **Electronics and Communication Engineering**
 
