@@ -38,7 +38,7 @@
 
 <h3 align="left">HARDWARE</h3>
 <div>
-  <div font-weight="bold">
+  <div font-weight="50px">
     Languages
   </div>
   <div>
@@ -48,7 +48,7 @@
 </div>
 
 <div>
-  <div font-weight="bold">
+  <div font-weight="50px">
     Tools
   </div>
   <div>
