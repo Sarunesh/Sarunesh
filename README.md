@@ -44,6 +44,8 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarunesh&show_icons=true&locale=en&layout=compact" alt="sarunesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarunesh&show_icons=true&locale=en" alt="sarunesh" /></p> -->
-![](https://github-readme-stats.vercel.app/api?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarunesh&theme=shades-of-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  ![](https://github-readme-stats.vercel.app/api?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sarunesh&theme=shades-of-purple&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
