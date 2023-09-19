@@ -43,7 +43,7 @@
 </div>
 
 <h3 align="left">Other Languages and Tools:</h3>
-<div display="flex" flex-direction="column" align-items= "flex-start" justify-content= "space-around" gap="5%">
+<div style="display:flex flex-direction:column align-items:flex-start justify-content:space-around gap:5%">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" aspect-ratio="1/5"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" aspect-ratio="1/5"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" aspect-ratio="1/5"/> </a>
