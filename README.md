@@ -46,7 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarunesh&show_icons=true&locale=en" alt="sarunesh" /></p> -->
 <div>
   <a href="![](https://github-readme-stats.vercel.app/api?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)" target="_blank" rel="noreferrer">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sarunesh&theme=shades-of-purple&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <a href="![](https://github-readme-streak-stats.herokuapp.com/?user=sarunesh&theme=shades-of-purple&hide_border=false)" target="_blank" rel="noreferrer">
+  <a href="![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" target="_blank" rel="noreferrer">
 </div>
