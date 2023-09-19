@@ -17,6 +17,7 @@
 - 🤗 Studying alongside my bestest friend <a href="https://github.com/VivekaECE" target="blank">**@VivekaECE**</a>
 
 - 💻 Bros-in-Arms: <ul style="column-count:2 column-rule-style:solid">
+                    <li><a href="https://github.com/VarunV4S" target="blank">**@VarunV4S**</a></li>
                     <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li>
                     <li><a href="https://github.com/Vijayn25" target="blank">**@Vijayn25**</a></li>
                     <li><a href="https://github.com/its-me-manoj" target="blank">**@its-me-manoj**</a></li>
@@ -45,8 +46,8 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarunesh&show_icons=true&locale=en&layout=compact" alt="sarunesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarunesh&show_icons=true&locale=en" alt="sarunesh" /></p> -->
-<div>
-  <a href="![](https://github-readme-stats.vercel.app/api?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)" target="_blank" rel="noreferrer"></a>
-  <a href="![](https://github-readme-streak-stats.herokuapp.com/?user=sarunesh&theme=shades-of-purple&hide_border=false)" target="_blank" rel="noreferrer"></a>
-  <a href="![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" target="_blank" rel="noreferrer"></a>
+<div style="display: flex">
+  ![](https://github-readme-stats.vercel.app/api?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sarunesh&theme=shades-of-purple&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarunesh&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
