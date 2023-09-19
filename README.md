@@ -31,7 +31,7 @@
 <div align="center">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarunesh-s-2b833b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarunesh-s-2b833b226/" height="30" width="40" /></a> -->
   <a href="https://www.linkedin.com/in/sarunesh-s-2b833b226/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" height="30" aspect-ratio="5/2" /></a>
-  <a href="@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="" height="30" aspect-ration="5/2" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarunesh.s12@gmail.com&su=SUBJECT&body=BODY" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="" height="30" aspect-ration="5/2" /></a>
   <a href="https://www.instagram.com/_.saru._.nesh._/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=plastic" alt="Instagram" height="30" aspect-ratio="5/2"/></a>
 </div>
 
