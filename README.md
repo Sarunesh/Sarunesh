@@ -38,10 +38,8 @@
 </div>
 
 <h3 align="left">Hardware Languages and Tools:</h3>
-<div>
-  <div style="color: white">
-    <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/verilog_icon_131894.png" alt="Verilog" width="40" aspect-ratio="1/2"/>
-  </div>
+<div style="color: white;">
+  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/verilog_icon_131894.png" alt="Verilog" width="40" aspect-ratio="1/2"/>
 </div>
 
 <h3 align="left">Other Languages and Tools:</h3>
