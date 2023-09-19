@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/_.saru._.nesh._/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=plastic" alt="Instagram" height="30" aspect-ratio="5/2"/></a>
 </div>
 
-- <h3 align="left">HARDWARE</h3>
+<h3 align="left">HARDWARE</h3>
 <div>
   <div font-weight="50px">
     Languages
@@ -52,7 +52,7 @@
     Tools
   </div>
   <div>
-    <a href="https://ieeexplore.ieee.org/document/1620780" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/Quartus%20Prime.png" alt="Quartus Prime Lite" width="60" aspect-ratio="5/2"/></a>
+    <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime/article.html" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/Quartus%20Prime.png" alt="Quartus Prime Lite" width="60" aspect-ratio="5/2"/></a>
   </div>
 </div>
 
