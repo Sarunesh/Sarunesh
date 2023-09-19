@@ -40,6 +40,7 @@
 <h3 align="left">Hardware Languages and Tools:</h3>
 <div>
   <a href="https://ieeexplore.ieee.org/document/1620780" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/verilog_icon_131894.png" alt="Verilog" width="60" aspect-ratio="5/2"/></a>
+  <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/SystemVerilog#/media/File:SystemVerilog_logo.png" alt="System Verilog" width="60" aspect-ratio="5/2"/></a>
 </div>
 
 <h3 align="left">Other Languages and Tools:</h3>
