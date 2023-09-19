@@ -37,6 +37,7 @@
 </div>
 
 <h3 align="left">HARDWARE</h3>
+<div style="display: inline-block;">
 <div>
   <div font-weight="50px">
     Languages
@@ -54,6 +55,7 @@
   <div>
     <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime/article.html" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/Quartus%20Prime.png" alt="Quartus Prime Lite" width="60" aspect-ratio="5/2"/></a>
   </div>
+</div>
 </div>
 
 <h3 align="left">Other Languages and Tools:</h3>
