@@ -14,8 +14,6 @@
 
 - 📫 Reach me at **sarunesh.s12@gmail.com**
 
-- 🤗 Studying alongside my bestest friend <a href="https://github.com/VivekaECE" target="blank">**@VivekaECE**</a>
-
 - 💻 Bros-in-Arms: <ul style="column-count:2 column-rule-style:solid">
                     <li><a href="https://github.com/VarunV4S" target="blank">**@VarunV4S**</a></li>
                     <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li>
@@ -23,6 +21,7 @@
                     <li><a href="https://github.com/its-me-manoj" target="blank">**@its-me-manoj**</a></li>
                     <li><a href="https://github.com/subanesh-swe" target="blank">**@subanesh-swe**</a></li>
                     <li><a href="https://github.com/sheshadriN" target="blank">**@sheshadriN**</a></li>
+                    <li><a href="https://github.com/VivekaECE" target="blank">**@VivekaECE**</a></li>
                   </ul>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
