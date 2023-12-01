@@ -21,7 +21,6 @@
                     <li><a href="https://github.com/its-me-manoj" target="blank">**@its-me-manoj**</a></li>
                     <li><a href="https://github.com/subanesh-swe" target="blank">**@subanesh-swe**</a></li>
                     <li><a href="https://github.com/sheshadriN" target="blank">**@sheshadriN**</a></li>
-                    <li><a href="https://github.com/VivekaECE" target="blank">**@VivekaECE**</a></li>
                   </ul>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
