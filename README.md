@@ -51,7 +51,7 @@
     <div font-weight="50px">
       Tools
     </div>
-    <div>
+    <div style="display: flex; flex-direction: column;">
       <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime/article.html" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/Quartus%20Prime.png" alt="Quartus Prime Lite" width="60" aspect-ratio="5/2"/></a>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" aspect-ratio="1/5"/> </a>
     </div>
