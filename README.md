@@ -15,6 +15,7 @@
 - 📫 Reach me at **sarunesh.s12@gmail.com**
 
 - 💻 Bros-in-Arms: <ul style="column-count:2 column-rule-style:solid">
+                    <li><a href="https://github.com/PIRIADHARSI" target="blank">**@PIRIADHARSI**</a></li>
                     <li><a href="https://github.com/VarunV4S" target="blank">**@VarunV4S**</a></li>
                     <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li>
                     <li><a href="https://github.com/Vijayn25" target="blank">**@Vijayn25**</a></li>
