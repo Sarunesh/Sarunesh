@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **various projects under VLSI frontend & backend.**
 
-- 🌱 I’m currently learning **Verilog, System Verilog, UVM, HTML, CSS.**
+- 🌱 I’m currently learning **Verilog, System Verilog, TCL.**
 
-- 💬 Ask me about **Verilog, System Verilog.**
+- 💬 Ask me about **Verilog, System Verilog, Bash scripting.**
 
 - 📫 Reach me at **sarunesh.s12@gmail.com**
 
