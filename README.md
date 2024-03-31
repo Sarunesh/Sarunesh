@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **various projects under VLSI frontend & backend.**
 
-- 🌱 I’m currently learning **Verilog, System Verilog, TCL.**
+- 🌱 I’m currently learning **Verilog, System Verilog, TCL**
 
 - 💬 Ask me about **Verilog, System Verilog, Bash scripting.**
 
