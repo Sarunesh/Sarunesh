@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, Myself SARUNESH S</h1>
-<h3 align="center">An aspiring RTL Design and Verification engineer from India!</h3>
+<h3 align="center">An aspiring <i>RTL Design and Verification engineer</i> from India!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarunesh&label=Profile%20views&color=0e75b6&style=flat" alt="sarunesh" /> </p> -->
 [![](https://visitcount.itsvg.in/api?id=sarunesh&icon=6&color=11)](https://visitcount.itsvg.in)
