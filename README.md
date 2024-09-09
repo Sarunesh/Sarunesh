@@ -6,11 +6,11 @@
 
 - 👨‍🎓 I’m pursuing my bachelor's degree in **Electronics and Communication Engineering.**
 
-- 🔭 I’m currently working on **various projects under VLSI frontend.**
+- 🔭 I’m currently working on **various projects under VLSI frontend**.
 
-- 🌱 I’m currently learning **Verilog, System Verilog and UVM**
+- 🌱 I’m currently learning **Verilog, System Verilog and UVM**.
 
-- 💬 Ask me about **Verilog, System Verilog, UVM, and Bash scripting.**
+- 💬 Ask me about **Verilog, System Verilog, UVM, and Bash scripting**.
 
 - 📫 Reach me at **sarunesh.s12@gmail.com**
 
