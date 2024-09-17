@@ -41,10 +41,10 @@
 <div style="display: inline-block;">
   <div>
     <div font-weight="50px">
-      Languages
+      Description and Verification Languages
     </div>
     <p align="left">
-      <a href="https://ieeexplore.ieee.org/document/1620780" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/verilog-svgrepo-com.svg" alt="Verilog" width="45" height="45"/>
+      <a href="https://ieeexplore.ieee.org/document/1620780" target="_blank"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/verilog-svgrepo-com.svg" alt="Verilog" width="45" height="45"/>
       <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/light-systemverilog-svgrepo-com.svg" alt="SystemVerilog" width="45" height="45"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
     </p>
