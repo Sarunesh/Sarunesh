@@ -49,22 +49,16 @@
       <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/uvm.jpeg" alt="UVM" width="45" height="45"/>
       </p>
 
-<h3 align="left">Scripting languages</h3>
+<h4 align="left">Scripting languages</h3>
     <p align="left">
       <a href="https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
       </p>
-  
-  <div>
-    <div font-weight="50px">
-      Tools
-    </div>
-    <div>
-      <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime/article.html" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/Quartus%20Prime.ico" alt="Quartus Prime Lite" width="60" aspect-ratio="5/2"/></a>
-      <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"><img src="https://maker-hub.georgefox.edu/w/images/8/85/Xilinx_image.jpg" alt="Xilinx Vivado" width="80" height="60" aspect-ratio="2/5"/></a>
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" aspect-ratio="1/5"/> </a>
-    </div>
-  </div>
-</div>
+
+<h4 align="left">Tools/Platforms</h3>
+    <p align="left">
+      <a href="https://www.edaplayground.com/loginpage" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/eda-playground-social-preview.png" alt="EDAplayground" width="45" height="45"/>
+      <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime/article.html" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/quartus.png" alt="Quartus Prime Lite" width="45" height="45"/>
+      </p>
 
 <h3 align="left">Other Languages and Tools:</h3>
 <div style="background-color:white">
