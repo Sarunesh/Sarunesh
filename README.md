@@ -49,8 +49,8 @@
     </div> -->
     <p align="left">
       <img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/verilog-svgrepo-com.svg" alt="Verilog" width="45" height="45"/>
-<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
+      <img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/light-systemverilog-svgrepo-com.svg" alt="SystemVerilog" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
     </p>
   </div>
   
