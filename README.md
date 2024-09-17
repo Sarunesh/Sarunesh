@@ -36,26 +36,22 @@
 <!--   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarunesh.s12@gmail.com&su=SUBJECT&body=BODY" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="" height="30" aspect-ration="5/2" /></a> -->
   <a href="https://www.instagram.com/_.saru._.nesh._/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=plastic" alt="Instagram" height="30" aspect-ratio="5/2"/></a>
 </div>
+
 <h3 align="left">Hardware Description and Verification languages</h3>
-<!-- <h3 align="left">HARDWARE</h3> -->
-<div style="display: inline-block;">
-<!--   <div> -->
-<!--     <div font-weight="50px"> -->
-  <h3 align="left">Hardware Description and Verification languages</h3>
-<!--       Description and Verification Languages -->
-<!--     </div> -->
     <p align="left">
       <a href="https://ieeexplore.ieee.org/document/1620780" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/verilog-svgrepo-com.svg" alt="Verilog" width="45" height="45"/>
       <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/light-systemverilog-svgrepo-com.svg" alt="SystemVerilog" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
     </p>
-    <div font-weight="50px">
-      Verification methodology
-    </div>
+        
+<h3 align="left">Verification methodology</h3>
     <p align="left">
       <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/uvm.jpeg" alt="UVM" width="45" height="45"/>
-    </p>
-  </div>
+      </p>
+
+<h3 align="left">Scripting languages</h3>
+    <p align="left">
+      <a href="https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+      </p>
   
   <div>
     <div font-weight="50px">
