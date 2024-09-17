@@ -43,10 +43,15 @@
     <div font-weight="50px">
       Languages
     </div>
-    <div>
+<!--     <div>
       <a href="https://ieeexplore.ieee.org/document/1620780" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/verilog_icon_131894.png" alt="Verilog" width="60" aspect-ratio="5/2"/></a>
       <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/SV.ico" alt="System Verilog" height="55" aspect-ratio="2/11"/></a>
-    </div>
+    </div> -->
+    <p align="left">
+      <img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/verilog-svgrepo-com.svg" alt="Verilog" width="45" height="45"/>
+<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
+    </p>
   </div>
   
   <div>
