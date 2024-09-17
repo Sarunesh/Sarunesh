@@ -36,13 +36,14 @@
 <!--   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarunesh.s12@gmail.com&su=SUBJECT&body=BODY" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="" height="30" aspect-ration="5/2" /></a> -->
   <a href="https://www.instagram.com/_.saru._.nesh._/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=plastic" alt="Instagram" height="30" aspect-ratio="5/2"/></a>
 </div>
-
-<h3 align="left">HARDWARE</h3>
+<h3 align="left">Hardware Description and Verification languages</h3>
+<!-- <h3 align="left">HARDWARE</h3> -->
 <div style="display: inline-block;">
-  <div>
-    <div font-weight="50px">
-      Description and Verification Languages
-    </div>
+<!--   <div> -->
+<!--     <div font-weight="50px"> -->
+  <h3 align="left">Hardware Description and Verification languages</h3>
+<!--       Description and Verification Languages -->
+<!--     </div> -->
     <p align="left">
       <a href="https://ieeexplore.ieee.org/document/1620780" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/verilog-svgrepo-com.svg" alt="Verilog" width="45" height="45"/>
       <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/light-systemverilog-svgrepo-com.svg" alt="SystemVerilog" width="45" height="45"/>
