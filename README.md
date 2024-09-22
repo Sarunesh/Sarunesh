@@ -56,6 +56,8 @@
 
 <h4 align="left">Tools/Platforms</h3>
     <p align="left">
+      <a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/questasim.png" alt="Questasim" width="45" height="45"/>
+        <a href="https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/modelsim.jpeg" alt="Modelsim" width="45" height="45"/>
       <a href="https://www.edaplayground.com/loginpage" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/edaplayground.png" alt="EDAplayground" width="45" height="45"/>
       <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime/article.html" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/quartus.png" alt="Quartus Prime Lite" width="45" height="45"/>
       </p>
