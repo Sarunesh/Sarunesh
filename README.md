@@ -14,16 +14,14 @@
 
 - 📫 Reach me at **sarunesh.s12@gmail.com**
 
-- 💻 Bros-in-Arms: <ul style="column-count:2 column-rule-style:solid">
+- 💻 Friends & Fam: <ul style="column-count:2 column-rule-style:solid">
                     <li><a href="https://github.com/PIRIADHARSI" target="blank">**@PIRIADHARSI**</a></li>
                     <li><a href="https://github.com/VarunV4S" target="blank">**@VarunV4S**</a></li>
                     <li><a href="https://github.com/KARTHIK-RAJA-B" target="blank">**@KARTHIK-RAJA-B**</a></li>
-                    <li><a href="https://github.com/Vijayn25" target="blank">**@Vijayn25**</a></li>
                     <li><a href="https://github.com/its-me-manoj" target="blank">**@its-me-manoj**</a></li>
                     <li><a href="https://github.com/subanesh-swe" target="blank">**@subanesh-swe**</a></li>
                     <li><a href="https://github.com/sheshadriN" target="blank">**@sheshadriN**</a></li>
                     <li><a href="https://github.com/Surya-7890" target="blank">**@Surya-7890**</a></li>
-                    <li><a href="https://github.com/ShriharanSudhakaranEEE" target="blank">**@ShriharanSudhakaranEEE**</a></li>
                   </ul>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
