@@ -4,13 +4,13 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarunesh&label=Profile%20views&color=0e75b6&style=flat" alt="sarunesh" /> </p> -->
 [![](https://visitcount.itsvg.in/api?id=sarunesh&icon=6&color=11)](https://visitcount.itsvg.in)
 
-- 👨‍🎓 I’m pursuing my bachelor's degree in **Electronics and Communication Engineering.**
+- 👨‍🎓 I pursued my bachelor's degree in **Electronics and Communication Engineering.**
 
-- 🔭 I’m currently working on **various projects under VLSI frontend**.
+- 🔭 I’m currently working on **various projects under RTL Design and Verification**.
 
-- 🌱 I’m currently learning **Verilog, System Verilog and UVM**.
+- 🌱 I’m currently learning **Perl scripting**.
 
-- 💬 Ask me about **Verilog, System Verilog, UVM, and Bash scripting**.
+- 💬 Ask me about **Verilog, System Verilog and UVM**.
 
 - 📫 Reach me at **sarunesh.s12@gmail.com**
 
@@ -49,11 +49,11 @@
       <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/uvm.jpeg" alt="UVM" width="45" height="45"/>
       </p>
 
-<h4 align="left">Scripting languages</h3>
+<!-- <h4 align="left">Scripting languages</h3>
     <p align="left">
       <a href="https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
       </p>
-
+-->
 <h4 align="left">Tools/Platforms</h3>
     <p align="left">
       <a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer"><img src="https://github.com/Sarunesh/Sarunesh/blob/main/Icons/questasim.png" alt="Questasim" width="55" height="45"/>
